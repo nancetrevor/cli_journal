@@ -2,6 +2,8 @@
 
 A small Go CLI for quick daily-note capture and retrieval in an Obsidian-style vault.
 
+<img src="assets/journal.gif" alt="Project Demo" width="700">
+
 ## What it does
 - Appends timestamped entries to daily markdown files (`YYYY-MM-DD.md`).
 - Supports optional tags on entries.
